@@ -1,6 +1,6 @@
 # Digit-Recognition
 ### ABOUT
-Using the techniques of image processing with the help of OpenCV and ML algorithm kNN(K-Nearest Neighbors), this program recognizes the digit from an image
+Using the techniques of image processing with the help of OpenCV and ML algorithm - kNN(K-Nearest Neighbors), this program recognizes the digit from an image
 ### REQUIRED DOWNLOADING AND INSTALLATION
 - Python 3.9.0 installation
 - install numpy
